@@ -10,7 +10,7 @@ Useful information, content and resources about HTML!
 ### Current HTML version: HTML5
 
 ### Official Resources
-* [Angular](https://angular.io/)
+
 
 
 ### Others Resources
